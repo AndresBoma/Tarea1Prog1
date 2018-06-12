@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\ammarin\desktop\tarea1prog1\main.cpp
+	<iostream>
+
+1528844979 source:c:\users\ammarin\desktop\tarea1prog1\src\example.cpp
+	"Example.h"
+	<string>
+
+1528844979 c:\users\ammarin\desktop\tarea1prog1\include\example.h
+	<string>
+
